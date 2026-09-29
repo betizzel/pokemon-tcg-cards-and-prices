@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+data/historic.csv
+data/crawl.log
+*.zip
