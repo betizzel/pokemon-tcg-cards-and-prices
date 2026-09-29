@@ -16,11 +16,13 @@ scripts here map those ids to cards in the stats table.
 
 ```sh
 pip install -r requirements.txt
-
-# historic.csv is 176 MB (over GitHub's file limit); download it once:
-curl -L -o historic.zip https://www.kaggle.com/api/v1/datasets/download/davidkim2003/pokemon-pricecharting-historic-data
-unzip historic.zip -d data && rm historic.zip
+python main.py
 ```
+
+`main.py` is the working script for the project. On the first run it downloads
+`data/historic.csv` from Kaggle (176 MB, too big for GitHub; no login needed),
+builds the combined table and caches it as `data/combined.parquet` (~1.5 min).
+Later runs load the cache in seconds. Put analysis in `analyze()`.
 
 ## Files
 
@@ -37,19 +39,17 @@ unzip historic.zip -d data && rm historic.zip
 - `variant`: printing tag from PriceCharting, `""` for the base printing. Most common: `reverse-holo`, `1st-edition`, `holo`, `cosmos-holo`, `jumbo`, `shadowless`, `prize-pack`, `stamped`. Several PriceCharting products can map to the same card (one per printing).
 - `name_match`: `True` if the card name agrees with PriceCharting's; `False` means it was matched on set + number plus at least one shared name word (98.7% are `True`).
 
-### Joining everything
+### Combined table (`main.py`)
 
-```python
-import json
-import pandas as pd
+`load_data()` in `main.py` returns one row per (PriceCharting product, month): 1,241,631 rows × 33 columns for 30,165 price series / 16,812 cards, 2020-12 to 2024-11.
 
-links = pd.read_csv("data/card_links.csv", dtype={"pc_id": str}, keep_default_na=False)
-cards = pd.read_csv("data/tpot.csv")
-hist = pd.read_csv("data/historic.csv", dtype={"id": str})
+- `pc_id`, `card_id`, `variant` (`base` for the base printing), `name_match`
+- `month` (`YYYY-MM`)
+- `price_ungraded`, `price_psa7`, `price_psa8`, `price_psa9`, `price_bgs9_5`, `price_psa10`: **USD** (already converted from cents), `NaN` when there was no price that month
+- `volume`: PriceCharting sales volume that month
+- card stats from `tpot.csv` (`name`, `supertype`, `subtypes`, `hp`, `types`, `attacks`, `weaknesses`, `rarity`, `artist`, …; list-like columns are JSON strings) and set info (`set_id`, `set_name`, `set_series`, `set_release_date`)
 
-df = links.merge(cards, left_on="card_id", right_on="id").merge(hist, left_on="pc_id", right_on="id", suffixes=("", "_pc"))
-df["Ungraded"] = df["Ungraded"].map(json.loads)  # [[unix_ms, price], ...]
-```
+It is cached as `data/combined.parquet` (git-ignored; delete it to rebuild).
 
 ## Reproducing the mapping
 
@@ -60,6 +60,5 @@ You don't need to rerun these; their outputs are committed.
 
 ## Next steps
 
-- Reshape to one row per card per month (≈1.24M rows).
-- Target: did the ungraded price rise more than X% over the next 6 months?
+- Target: did the ungraded price rise more than X% over the next 6 months? (build it in `analyze()` in `main.py`)
 - Split train/test **by time** (e.g. train 2021–2023, test 2024), not randomly, to avoid leaking the future.
