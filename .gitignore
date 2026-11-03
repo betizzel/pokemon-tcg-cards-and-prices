@@ -2,5 +2,30 @@
 __pycache__/
 data/historic.csv
 data/combined.*
+data/cleaned_*.parquet
 data/crawl.log
 *.zip
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+
+# Jupyter autosaves
+.ipynb_checkpoints/
+
+# Downloaded price history and generated data caches
+data/historic.csv
+data/combined.*
+data/cleaned_*.parquet
+data/crawl.log
+*.zip
+
+# Generated product-level datasets and cluster assignments
+/results/**/*.parquet
+
+# macOS metadata
+.DS_Store
+
+# Previous analysis archive
+/previous-analysis/

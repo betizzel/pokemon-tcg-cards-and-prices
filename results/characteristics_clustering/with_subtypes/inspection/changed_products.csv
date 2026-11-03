@@ -1,0 +1,315 @@
+pc_id,card_id,name,supertype,rarity,variant,set_name,subtypes,set_age_years,from_group,to_group,november_ungraded_usd,year_median_ungraded_usd
+762764,pop5-4,Double Rainbow Energy,Energy,Rare,base,POP Series 5,"[""Special""]",17.752224503764545,D,A,6.07,22.82
+762765,pop5-5,Charmeleon δ,Pokémon,Uncommon,base,POP Series 5,"[""Stage 1""]",17.752224503764545,D,A,18.29,13.87
+762766,pop5-6,Bill's Maintenance,Trainer,Uncommon,base,POP Series 5,"[""Supporter""]",17.752224503764545,D,A,3.6,3.81
+762767,pop5-7,Rare Candy,Trainer,Uncommon,base,POP Series 5,"[""Item""]",17.752224503764545,D,A,4.99,4.95
+762768,pop5-8,Boost Energy,Energy,Uncommon,base,POP Series 5,"[""Special""]",17.752224503764545,D,A,4.06,4.06
+762769,pop5-9,δ Rainbow Energy,Energy,Uncommon,base,POP Series 5,"[""Special""]",17.752224503764545,D,A,4.51,4.6
+762770,pop5-10,Charmander δ,Pokémon,Common,base,POP Series 5,"[""Basic""]",17.752224503764545,A,D,14.43,10.95
+762771,pop5-11,Meowth δ,Pokémon,Common,base,POP Series 5,"[""Basic""]",17.752224503764545,A,D,3.99,2.375
+762772,pop5-12,Pikachu,Pokémon,Common,base,POP Series 5,"[""Basic""]",17.752224503764545,A,D,15.01,14.06
+762774,pop5-15,Zangoose δ,Pokémon,Common,base,POP Series 5,"[""Basic""]",17.752224503764545,A,D,4.38,3.9050000000000002
+762777,pop5-1,Ho-Oh,Pokémon,Rare,holo,POP Series 5,"[""Basic""]",17.752224503764545,A,D,4.99,6.2
+762778,pop5-2,Lugia,Pokémon,Rare,holo,POP Series 5,"[""Basic""]",17.752224503764545,A,D,16.37,23.395
+762779,pop5-3,Mew δ,Pokémon,Rare,holo,POP Series 5,"[""Basic""]",17.752224503764545,A,D,61.21,58.2
+762780,pop5-12,Pikachu,Pokémon,Common,holo,POP Series 5,"[""Basic""]",17.752224503764545,A,D,40.52,33.015
+762782,pop5-15,Zangoose δ,Pokémon,Common,holo,POP Series 5,"[""Basic""]",17.752224503764545,A,D,4.38,4.38
+763038,dp1-2,Dusknoir,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 2""]",17.585215605749486,D,A,4.12,4.01
+763039,dp1-3,Electivire,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,2.79,3.0549999999999997
+763040,dp1-4,Empoleon,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 2""]",17.585215605749486,D,A,3.3,3.09
+763041,dp1-5,Infernape,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 2""]",17.585215605749486,D,A,5.39,3.65
+763042,dp1-6,Lucario,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,5.13,5.0649999999999995
+763043,dp1-7,Luxray,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 2""]",17.585215605749486,D,A,4.14,3.32
+763044,dp1-8,Magnezone,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 2""]",17.585215605749486,D,A,2.98,3.4
+763046,dp1-10,Mismagius,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,3.88,2.81
+763048,dp1-12,Rhyperior,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 2""]",17.585215605749486,D,A,4.36,3.5
+763049,dp1-13,Roserade,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,3.25,2.7199999999999998
+763050,dp1-14,Shiftry,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 2""]",17.585215605749486,D,A,1.97,2.51
+763051,dp1-15,Skuntank,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,2.63,2.605
+763052,dp1-16,Staraptor,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 2""]",17.585215605749486,D,A,2.63,2.995
+763053,dp1-17,Torterra,Pokémon,Rare Holo,base,Diamond & Pearl,"[""Stage 2""]",17.585215605749486,D,A,5.9,3.85
+763080,dp1-44,Cascoon,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.94,1.71
+763081,dp1-45,Cherrim,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.48,1.48
+763083,dp1-47,Dusclops,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.11,1.525
+763085,dp1-49,Grotle,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.56,1.585
+763086,dp1-50,Haunter,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,2.16,2.17
+763088,dp1-52,Luxio,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,2.7,3.0700000000000003
+763089,dp1-53,Machoke,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.94,1.8450000000000002
+763090,dp1-54,Magneton,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.33,1.76
+763092,dp1-56,Monferno,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,2.04,1.645
+763093,dp1-57,Nuzleaf,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.85,1.85
+763094,dp1-58,Prinplup,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.25,1.24
+763095,dp1-59,Rapidash,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,2.06,1.9849999999999999
+763096,dp1-60,Rhydon,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.73,1.71
+763098,dp1-62,Seaking,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.72,1.11
+763099,dp1-63,Silcoon,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.5,1.46
+763100,dp1-64,Staravia,Pokémon,Uncommon,base,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,1.76,1.76
+889591,ex15-16,Gligar δ,Pokémon,Rare,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,9.5,9.37
+889592,ex15-17,Jynx δ,Pokémon,Rare,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,4.99,4.99
+889594,ex15-19,Lickitung δ,Pokémon,Rare,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,5.0,7.085
+889595,ex15-20,Mantine δ,Pokémon,Rare,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,6.93,8.69
+889598,ex15-23,Tropius δ,Pokémon,Rare,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,9.25,8.275
+889604,ex15-29,Electabuzz δ,Pokémon,Uncommon,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,9.56,11.25
+889606,ex15-31,Horsea δ,Pokémon,Uncommon,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,5.93,5.93
+889614,ex15-39,Smeargle δ,Pokémon,Uncommon,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,7.89,7.904999999999999
+889616,ex15-41,Togepi δ,Pokémon,Uncommon,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,9.21,8.935
+889618,ex15-43,Bagon δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,4.87,4.87
+889619,ex15-44,Chikorita δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,6.82,5.8
+889620,ex15-45,Cyndaquil δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,8.6,8.274999999999999
+889621,ex15-46,Dratini δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,9.99,8.21
+889622,ex15-47,Ekans δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,4.25,4.005
+889623,ex15-48,Elekid δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,5.62,5.31
+889624,ex15-49,Feebas δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,5.37,5.16
+889625,ex15-50,Horsea δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,4.31,4.705
+889626,ex15-51,Larvitar,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,4.29,5.155
+889627,ex15-52,Larvitar δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,7.5,6.525
+889628,ex15-53,Ledyba δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,3.62,4.4
+889629,ex15-54,Mareep δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,5.0,4.93
+889630,ex15-55,Natu δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,4.67,4.115
+889635,ex15-60,Ralts,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,4.5,5.25
+889636,ex15-61,Ralts δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,6.25,8.18
+889637,ex15-62,Seel δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,3.17,3.26
+889638,ex15-63,Shellder δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,5.07,4.0600000000000005
+889639,ex15-64,Smoochum δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,5.06,4.890000000000001
+889640,ex15-65,Swablu δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,2.99,4.865
+889641,ex15-66,Taillow δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,5.34,2.97
+889642,ex15-67,Totodile δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,11.69,9.105
+889643,ex15-68,Trapinch δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,4.39,5.66
+889644,ex15-69,Trapinch δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,4.35,4.31
+889645,ex15-70,Vulpix δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,5.79,6.0600000000000005
+889646,ex15-71,Wooper δ,Pokémon,Common,reverse-holo,Dragon Frontiers,"[""Basic""]",18.080766598220396,A,D,8.82,8.440000000000001
+889678,ex16-14,Dusclops,Pokémon,Rare,base,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,1.75,2.42
+889679,ex16-15,Lanturn,Pokémon,Rare,base,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,1.94,2.18
+889680,ex16-16,Magneton,Pokémon,Rare,base,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,2.6,2.8200000000000003
+889682,ex16-18,Mightyena,Pokémon,Rare,base,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,4.0,3.43
+889683,ex16-19,Ninetales,Pokémon,Rare,base,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,4.0,3.73
+889684,ex16-20,Omastar,Pokémon,Rare,base,Power Keepers,"[""Stage 2""]",17.82614647501711,D,A,1.99,1.7
+889706,ex16-42,Aron,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.65,1.51
+889707,ex16-43,Bagon,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.46,1.55
+889708,ex16-44,Baltoy,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.51,1.51
+889709,ex16-45,Beldum,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.94,1.595
+889710,ex16-46,Cacnea,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.13,1.13
+889711,ex16-47,Carvanha,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.78,1.13
+889712,ex16-48,Charmander,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,2.24,2.0
+889713,ex16-49,Chinchou,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.75,1.67
+889714,ex16-50,Duskull,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,2.35,1.645
+889717,ex16-53,Machop,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,0.99,1.5550000000000002
+889718,ex16-54,Magnemite,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.49,2.26
+889719,ex16-55,Meditite,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,0.38,1.245
+889721,ex16-57,Pikachu,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,3.0,3.05
+889722,ex16-58,Poochyena,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,2.67,1.835
+889723,ex16-59,Ralts,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.13,1.255
+889724,ex16-60,Seedot,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.52,1.63
+889725,ex16-61,Shuppet,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.27,1.345
+889726,ex16-62,Skitty,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.2,1.2650000000000001
+889727,ex16-63,Slakoth,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.32,1.51
+889728,ex16-64,Snorunt,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.01,1.6600000000000001
+889729,ex16-65,Spheal,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,2.96,2.145
+889730,ex16-66,Swablu,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.46,1.46
+889731,ex16-67,Torchic,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.56,1.56
+889732,ex16-68,Trapinch,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,3.47,1.875
+889733,ex16-69,Vulpix,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.5,1.825
+889734,ex16-70,Wynaut,Pokémon,Common,base,Power Keepers,"[""Basic""]",17.82614647501711,A,D,1.9,1.3
+889751,ex16-87,Darkness Energy,Energy,Rare,base,Power Keepers,"[""Special""]",17.82614647501711,D,A,1.76,1.57
+889752,ex16-88,Metal Energy,Energy,Rare,base,Power Keepers,"[""Special""]",17.82614647501711,D,A,2.5,1.99
+889753,ex16-89,Multi Energy,Energy,Rare,base,Power Keepers,"[""Special""]",17.82614647501711,D,A,2.05,2.2249999999999996
+889773,ex16-1,Aggron,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 2""]",17.82614647501711,D,A,7.99,7.99
+889774,ex16-2,Altaria,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,5.99,6.915
+889775,ex16-3,Armaldo,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 2""]",17.82614647501711,D,A,4.0,5.58
+889776,ex16-4,Banette,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,5.25,5.665
+889777,ex16-5,Blaziken,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 2""]",17.82614647501711,D,A,16.83,14.515
+889778,ex16-6,Charizard,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 2""]",17.82614647501711,D,A,67.16,62.41
+889779,ex16-7,Cradily,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 2""]",17.82614647501711,D,A,6.68,6.77
+889780,ex16-8,Delcatty,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,4.95,5.27
+889781,ex16-9,Gardevoir,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 2""]",17.82614647501711,D,A,5.51,9.225
+889782,ex16-10,Kabutops,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 2""]",17.82614647501711,D,A,6.52,7.24
+889783,ex16-11,Machamp,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 2""]",17.82614647501711,D,A,6.7,8.15
+889784,ex16-12,Raichu,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,16.74,18.225
+889785,ex16-13,Slaking,Pokémon,Rare Holo,reverse-holo,Power Keepers,"[""Stage 2""]",17.82614647501711,D,A,5.13,5.23
+889798,ex16-26,Anorith,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,4.49,2.975
+889799,ex16-27,Cacturne,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,5.04,3.76
+889800,ex16-28,Charmeleon,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,17.7,13.27
+889801,ex16-29,Combusken,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,3.85,7.21
+889802,ex16-30,Glalie,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,3.68,4.24
+889803,ex16-31,Kirlia,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,1.99,4.44
+889804,ex16-32,Lairon,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,5.0,3.79
+889805,ex16-33,Machoke,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,4.99,4.99
+889806,ex16-34,Medicham,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,2.26,3.6
+889807,ex16-35,Metang,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,4.24,5.805
+889808,ex16-36,Nuzleaf,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,2.26,2.37
+889809,ex16-37,Sealeo,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,4.77,2.88
+889810,ex16-38,Sharpedo,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,5.42,5.28
+889811,ex16-39,Shelgon,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,6.29,5.705
+889812,ex16-40,Vibrava,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,4.25,3.365
+889813,ex16-41,Vigoroth,Pokémon,Uncommon,reverse-holo,Power Keepers,"[""Stage 1""]",17.82614647501711,D,A,2.62,4.1850000000000005
+957857,xy2-1,Caterpie,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.77,1.77
+957860,xy2-4,Pineco,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.09,1.21
+957861,xy2-5,Seedot,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.66,1.81
+957864,xy2-8,Roselia,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.49,1.63
+957867,xy2-14,Ponyta,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.46,1.49
+957871,xy2-18,Litleo,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.46,1.26
+957872,xy2-19,Litleo,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.14,1.165
+957875,xy2-22,Feebas,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.79,1.755
+957877,xy2-24,Spheal,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.49,1.81
+957881,xy2-28,Buizel,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.56,1.35
+957883,xy2-30,Bergmite,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.82,1.73
+957885,xy2-32,Shinx,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.57,1.25
+957888,xy2-36,Helioptile,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.25,1.25
+957892,xy2-42,Espurr,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,2.0,1.45
+957894,xy2-44,Skrelp,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.4,1.49
+957895,xy2-45,Geodude,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.26,1.37
+957898,xy2-48,Binacle,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.32,1.35
+957901,xy2-51,Sneasel,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.51,1.375
+957903,xy2-53,Stunky,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.79,1.79
+957904,xy2-54,Stunky,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.71,1.51
+957906,xy2-56,Sandile,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.44,1.44
+957908,xy2-58,Scraggy,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.4,1.5
+957912,xy2-62,Flabébé,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,2.49,1.59
+957913,xy2-63,Flabébé,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.39,1.005
+957917,xy2-67,Spritzee,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.49,1.52
+957921,xy2-72,Goomy,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.65,1.665
+957924,xy2-75,Pidgey,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.76,1.8900000000000001
+957928,xy2-81,Sentret,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.39,1.43
+957932,xy2-84,Buneary,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.32,1.07
+957933,xy2-86,Fletchling,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.33,1.25
+957947,xy2-38,Duskull,Pokémon,Common,reverse-holo,Flashfire,"[""Basic""]",10.568104038329912,C,D,1.48,1.59
+958092,xy3-109,Battle Reporter,Trainer,Rare Ultra,base,Furious Fists,"[""Supporter""]",10.299794661190965,D,B,6.26,7.37
+958093,xy3-110,Fossil Researcher,Trainer,Rare Ultra,base,Furious Fists,"[""Supporter""]",10.299794661190965,D,B,9.28,10.0
+958094,xy3-111,Korrina,Trainer,Rare Ultra,base,Furious Fists,"[""Supporter""]",10.299794661190965,D,B,17.47,16.155
+958126,xy3-33,Thundurus,Pokémon,Rare,reverse-holo,Furious Fists,"[""Basic""]",10.299794661190965,C,D,1.0,0.995
+958130,xy3-37,Jynx,Pokémon,Rare,reverse-holo,Furious Fists,"[""Basic""]",10.299794661190965,C,D,1.57,1.38
+958149,xy3-58,Landorus,Pokémon,Rare Holo,reverse-holo,Furious Fists,"[""Basic""]",10.299794661190965,C,D,2.6,2.78
+958154,xy3-63,Hawlucha,Pokémon,Rare Holo,reverse-holo,Furious Fists,"[""Basic""]",10.299794661190965,C,D,1.55,1.195
+958175,xy3-86,Tornadus,Pokémon,Rare,reverse-holo,Furious Fists,"[""Basic""]",10.299794661190965,C,D,1.88,2.205
+958217,xy4-24,M Manectric-EX,Pokémon,Rare Holo EX,base,Phantom Forces,"[""MEGA"", ""EX""]",10.069815195071868,D,B,4.29,4.725
+958228,xy4-35,M Gengar-EX,Pokémon,Rare Holo EX,base,Phantom Forces,"[""MEGA"", ""EX""]",10.069815195071868,D,B,25.28,23.439999999999998
+958284,xy4-91,AZ,Trainer,Uncommon,base,Phantom Forces,"[""Supporter""]",10.069815195071868,D,B,1.36,1.19
+958292,xy4-99,Lysandre's Trump Card,Trainer,Uncommon,base,Phantom Forces,"[""Supporter""]",10.069815195071868,D,B,2.42,2.69
+958294,xy4-101,Professor Sycamore,Trainer,Uncommon,base,Phantom Forces,"[""Supporter""]",10.069815195071868,D,B,1.42,0.99
+958297,xy4-104,Shauna,Trainer,Uncommon,base,Phantom Forces,"[""Supporter""]",10.069815195071868,D,B,1.31,1.23
+958300,xy4-107,Tierno,Trainer,Uncommon,base,Phantom Forces,"[""Supporter""]",10.069815195071868,D,B,1.06,1.07
+958303,xy4-110,Xerosic,Trainer,Uncommon,base,Phantom Forces,"[""Supporter""]",10.069815195071868,D,B,1.27,1.27
+958313,xy4-120,M Manectric-EX,Pokémon,Rare Secret,base,Phantom Forces,"[""MEGA"", ""EX""]",10.069815195071868,D,B,6.97,8.555
+958314,xy4-121,M Gengar-EX,Pokémon,Rare Secret,base,Phantom Forces,"[""MEGA"", ""EX""]",10.069815195071868,D,B,37.47,35.375
+958461,xy5-3,Beedrill,Pokémon,Rare,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,1.19,1.23
+958465,xy5-8,Sceptile,Pokémon,Rare,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,1.99,1.99
+958466,xy5-9,Sceptile,Pokémon,Rare Holo,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,3.9,3.0
+958469,xy5-12,Ludicolo,Pokémon,Rare Holo,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,2.08,2.08
+958485,xy5-28,Blaziken,Pokémon,Rare Holo,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,2.85,2.99
+958492,xy5-35,Swampert,Pokémon,Rare,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,1.79,1.78
+958493,xy5-36,Swampert,Pokémon,Rare Holo,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,4.99,4.95
+958494,xy5-37,Ludicolo,Pokémon,Rare,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,2.01,2.01
+958505,xy5-48,Walrein,Pokémon,Rare,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,1.53,1.78
+958522,xy5-65,Eelektross,Pokémon,Rare Holo,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,1.99,1.99
+958525,xy5-68,Nidoqueen,Pokémon,Uncommon,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,1.56,1.7149999999999999
+958526,xy5-69,Nidoqueen,Pokémon,Rare,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,2.17,1.83
+958533,xy5-76,Rhyperior,Pokémon,Rare,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,1.38,1.41
+958534,xy5-77,Rhyperior,Pokémon,Rare Holo,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,2.12,2.24
+958557,xy5-100,Aegislash,Pokémon,Rare Holo,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,1.99,1.99
+958564,xy5-107,Kingdra,Pokémon,Rare,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,1.5,1.66
+958565,xy5-108,Kingdra,Pokémon,Rare Holo,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,3.14,3.61
+958567,xy5-110,Flygon,Pokémon,Rare Holo,base,Primal Clash,"[""Stage 2""]",9.820670773442847,D,B,2.28,2.255
+958579,xy5-122,Acro Bike,Trainer,Uncommon,base,Primal Clash,"[""Item""]",9.820670773442847,D,B,1.4,1.3450000000000002
+958580,xy5-123,Aggron Spirit Link,Trainer,Uncommon,base,Primal Clash,"[""Pok\u00e9mon Tool""]",9.820670773442847,D,B,1.35,1.3
+958581,xy5-124,Archie's Ace in the Hole,Trainer,Uncommon,base,Primal Clash,"[""Supporter""]",9.820670773442847,D,B,1.17,1.44
+958582,xy5-125,Dive Ball,Trainer,Uncommon,base,Primal Clash,"[""Item""]",9.820670773442847,D,B,2.64,2.7
+958583,xy5-126,Energy Retrieval,Trainer,Uncommon,base,Primal Clash,"[""Item""]",9.820670773442847,D,B,1.18,1.18
+958584,xy5-127,Escape Rope,Trainer,Uncommon,base,Primal Clash,"[""Item""]",9.820670773442847,D,B,1.09,1.09
+958585,xy5-128,Exp. Share,Trainer,Uncommon,base,Primal Clash,"[""Pok\u00e9mon Tool""]",9.820670773442847,D,B,1.15,1.13
+958586,xy5-129,Fresh Water Set,Trainer,Uncommon,base,Primal Clash,"[""Item""]",9.820670773442847,D,B,1.0,0.99
+958587,xy5-130,Gardevoir Spirit Link,Trainer,Uncommon,base,Primal Clash,"[""Pok\u00e9mon Tool""]",9.820670773442847,D,B,0.99,0.99
+958588,xy5-131,Groudon Spirit Link,Trainer,Uncommon,base,Primal Clash,"[""Pok\u00e9mon Tool""]",9.820670773442847,D,B,1.52,1.29
+958589,xy5-132,Kyogre Spirit Link,Trainer,Uncommon,base,Primal Clash,"[""Pok\u00e9mon Tool""]",9.820670773442847,D,B,1.3,1.25
+958590,xy5-133,Maxie's Hidden Ball Trick,Trainer,Uncommon,base,Primal Clash,"[""Supporter""]",9.820670773442847,D,B,1.3,1.26
+958591,xy5-134,Professor Birch's Observations,Trainer,Uncommon,base,Primal Clash,"[""Supporter""]",9.820670773442847,D,B,0.99,1.19
+958592,xy5-135,Rare Candy,Trainer,Uncommon,base,Primal Clash,"[""Item""]",9.820670773442847,D,B,1.69,1.42
+958593,xy5-136,Repeat Ball,Trainer,Uncommon,base,Primal Clash,"[""Item""]",9.820670773442847,D,B,1.19,1.2149999999999999
+958594,xy5-137,Rough Seas,Trainer,Uncommon,base,Primal Clash,"[""Stadium""]",9.820670773442847,D,B,1.55,1.545
+958595,xy5-138,Scorched Earth,Trainer,Uncommon,base,Primal Clash,"[""Stadium""]",9.820670773442847,D,B,1.48,1.04
+958596,xy5-139,Shrine of Memories,Trainer,Uncommon,base,Primal Clash,"[""Stadium""]",9.820670773442847,D,B,0.97,1.0
+958597,xy5-140,Silent Lab,Trainer,Uncommon,base,Primal Clash,"[""Stadium""]",9.820670773442847,D,B,2.45,2.435
+958598,xy5-141,Teammates,Trainer,Uncommon,base,Primal Clash,"[""Supporter""]",9.820670773442847,D,B,1.99,2.05
+958599,xy5-142,Weakness Policy,Trainer,Uncommon,base,Primal Clash,"[""Pok\u00e9mon Tool""]",9.820670773442847,D,B,1.15,1.35
+958600,xy5-143,Shield Energy,Energy,Uncommon,base,Primal Clash,"[""Special""]",9.820670773442847,D,B,1.7,1.7
+958601,xy5-144,Wonder Energy,Energy,Uncommon,base,Primal Clash,"[""Special""]",9.820670773442847,D,B,1.66,1.47
+958754,dc1-1,Team Magma's Numel,Pokémon,Common,base,Double Crisis,"[""Basic""]",9.686516084873375,B,D,2.5,2.05
+958756,dc1-3,Team Aqua's Spheal,Pokémon,Common,base,Double Crisis,"[""Basic""]",9.686516084873375,B,D,2.5,2.86
+958757,dc1-4,Team Aqua's Sealeo,Pokémon,Common,base,Double Crisis,"[""Stage 1""]",9.686516084873375,B,D,1.76,1.72
+958760,dc1-7,Team Aqua's Grimer,Pokémon,Common,base,Double Crisis,"[""Basic""]",9.686516084873375,B,D,1.99,2.27
+958762,dc1-9,Team Aqua's Seviper,Pokémon,Common,base,Double Crisis,"[""Basic""]",9.686516084873375,B,D,1.99,2.62
+958763,dc1-10,Team Magma's Baltoy,Pokémon,Common,base,Double Crisis,"[""Basic""]",9.686516084873375,B,D,1.65,1.75
+958765,dc1-12,Team Magma's Aron,Pokémon,Common,base,Double Crisis,"[""Basic""]",9.686516084873375,B,D,1.99,1.92
+958766,dc1-13,Team Magma's Lairon,Pokémon,Common,base,Double Crisis,"[""Stage 1""]",9.686516084873375,B,D,1.99,1.675
+958769,dc1-16,Team Aqua's Poochyena,Pokémon,Common,base,Double Crisis,"[""Basic""]",9.686516084873375,B,D,2.91,1.43
+958770,dc1-17,Team Magma's Poochyena,Pokémon,Common,base,Double Crisis,"[""Basic""]",9.686516084873375,B,D,2.5,2.2
+958771,dc1-18,Team Aqua's Mightyena,Pokémon,Common,base,Double Crisis,"[""Stage 1""]",9.686516084873375,B,D,2.66,2.705
+958772,dc1-19,Team Magma's Mightyena,Pokémon,Common,base,Double Crisis,"[""Stage 1""]",9.686516084873375,B,D,2.39,1.94
+958773,dc1-20,Team Aqua's Carvanha,Pokémon,Common,base,Double Crisis,"[""Basic""]",9.686516084873375,B,D,1.8,1.69
+958775,dc1-22,Team Magma's Zangoose,Pokémon,Common,base,Double Crisis,"[""Basic""]",9.686516084873375,B,D,1.99,2.105
+3010354,g1-43,Geodude,Pokémon,Common,toys-r-us,Generations,"[""Basic""]",8.772073921971252,C,D,15.25,16.465
+3010355,g1-22,Magikarp,Pokémon,Common,toys-r-us,Generations,"[""Basic""]",8.772073921971252,C,D,15.78,13.065000000000001
+3010356,g1-53,Meowth,Pokémon,Common,toys-r-us,Generations,"[""Basic""]",8.772073921971252,C,D,8.33,7.125
+3102598,g1-26,Pikachu,Pokémon,Common,toys-r-us,Generations,"[""Basic""]",8.772073921971252,C,D,16.92,19.99
+3179765,g1-8,Tangela,Pokémon,Common,toys-r-us,Generations,"[""Basic""]",8.772073921971252,C,D,28.21,27.06
+3179767,g1-50,Clefairy,Pokémon,Common,toys-r-us,Generations,"[""Basic""]",8.772073921971252,C,D,7.0,7.58
+3179769,g1-14,Ponyta,Pokémon,Common,toys-r-us,Generations,"[""Basic""]",8.772073921971252,C,D,29.72,29.98
+3179771,g1-32,Slowpoke,Pokémon,Common,toys-r-us,Generations,"[""Basic""]",8.772073921971252,C,D,33.29,31.634999999999998
+3398878,dp1-58,Prinplup,Pokémon,Uncommon,diamond-&-pearl-stamp,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,3.3,3.125
+3930579,dp1-52,Luxio,Pokémon,Uncommon,pre-release-staff,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,83.52,77.0
+4140979,sm3-115,Guzma,Trainer,Uncommon,2018-world-championship,Burning Shadows,"[""Supporter""]",7.321013004791239,C,B,0.73,0.73
+4166491,sm75-35,Dratini,Pokémon,Common,stamped,Dragon Majesty,"[""Basic""]",6.231348391512663,C,B,40.72,36.94
+4166493,sm8-75,Mareep,Pokémon,Common,stamped,Lost Thunder,"[""Basic""]",6.078028747433265,C,B,28.35,28.35
+4199693,pop5-3,Mew δ,Pokémon,Rare,error,POP Series 5,"[""Basic""]",17.752224503764545,A,D,170.59,170.59
+4360786,dp1-56,Monferno,Pokémon,Uncommon,burger-king,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,5.0,4.98
+4476047,sm1-9,Rowlet,Pokémon,Common,holo,Sun & Moon,"[""Basic""]",7.822039698836414,C,B,2.27,2.02
+4476048,sm1-24,Litten,Pokémon,Common,holo,Sun & Moon,"[""Basic""]",7.822039698836414,C,B,2.5,2.76
+4557501,pop5-13,Pikachu δ,Pokémon,Common,base,POP Series 5,"[""Basic""]",17.752224503764545,A,D,12.75,11.57
+4877823,sm5-122a,Escape Board,Trainer,Uncommon,reverse-holo-pokemon-league,Ultra Prism,"[""Pok\u00e9mon Tool""]",6.825462012320329,C,B,1.91,1.91
+4890520,sm8-155,Eevee,Pokémon,Common,cracked-holo,Lost Thunder,"[""Basic""]",6.078028747433265,C,B,4.15,3.86
+5013672,sm35-28,Pikachu,Pokémon,Common,holo,Shining Legends,"[""Basic""]",7.151266255989048,C,B,3.48,3.9050000000000002
+5076784,sm5-122,Escape Board,Trainer,Uncommon,reverse-foil-league-cup,Ultra Prism,"[""Pok\u00e9mon Tool""]",6.825462012320329,C,B,2.96,1.95
+5172520,swsh1-56,Drizzile,Pokémon,Uncommon,holo-prize-pack,Sword & Shield,"[""Stage 1""]",4.813141683778234,B,C,,
+5172624,g1-68,Pokémon Center Lady,Trainer,Uncommon,shintaro-ito,Generations,"[""Supporter""]",8.772073921971252,C,B,,1.0
+5172628,xy9-107,Professor Sycamore,Trainer,Uncommon,shintaro-ito,BREAKpoint,"[""Supporter""]",8.824093086926762,C,B,0.25,0.25
+5205169,g1-50,Clefairy,Pokémon,Common,20th-anniversary,Generations,"[""Basic""]",8.772073921971252,C,D,4.43,4.44
+5205170,sm6-113,Mysterious Treasure,Trainer,Uncommon,staff-league-cup,Forbidden Light,"[""Item""]",6.576317590691307,C,B,19.75,29.99
+5427868,sm7-8,Treecko,Pokémon,Common,stamped,Celestial Storm,"[""Basic""]",6.327173169062286,C,B,13.0,13.5
+5427869,dp2-5,Blissey,Pokémon,Rare Holo,2008-world-championships,Mysterious Treasures,"[""Stage 1""]",17.333333333333332,D,A,,
+5428217,dp1-93,Piplup,Pokémon,Common,stamped,Diamond & Pearl,"[""Basic""]",17.585215605749486,A,D,2.45,1.5
+5428218,dp1-103,Turtwig,Pokémon,Common,burger-king,Diamond & Pearl,"[""Basic""]",17.585215605749486,A,D,3.45,3.4450000000000003
+5428219,dp1-76,Chimchar,Pokémon,Common,burger-king,Diamond & Pearl,"[""Basic""]",17.585215605749486,A,D,4.99,3.885
+5428222,dp1-9,Manaphy,Pokémon,Rare Holo,stamped,Diamond & Pearl,"[""Basic""]",17.585215605749486,A,D,11.57,7.41
+5428227,dp1-49,Grotle,Pokémon,Uncommon,stamped,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,2.25,2.25
+5428228,dp1-98,Shinx,Pokémon,Common,burger-king,Diamond & Pearl,"[""Basic""]",17.585215605749486,A,D,5.87,4.24
+5428255,swsh3-83,Polteageist,Pokémon,Uncommon,thank-you,Darkness Ablaze,"[""Stage 1""]",4.295687885010267,B,C,,
+5515067,sm3-113,Bodybuilding Dumbbells,Trainer,Uncommon,league,Burning Shadows,"[""Pok\u00e9mon Tool""]",7.321013004791239,C,B,0.99,0.99
+5527609,dp1-52,Luxio,Pokémon,Uncommon,pre-release,Diamond & Pearl,"[""Stage 1""]",17.585215605749486,D,A,9.78,11.165
+5528976,dp1-98,Shinx,Pokémon,Common,city-championships-staff,Diamond & Pearl,"[""Basic""]",17.585215605749486,A,D,42.2,42.2
+5529192,sm3-113,Bodybuilding Dumbbells,Trainer,Uncommon,league-staff,Burning Shadows,"[""Pok\u00e9mon Tool""]",7.321013004791239,C,B,11.73,11.73
+5551255,sm8-172,Electropower,Trainer,Uncommon,league-cup-staff,Lost Thunder,"[""Item""]",6.078028747433265,C,B,12.12,12.12
+5571498,sm1-123,Nest Ball,Trainer,Uncommon,league-cup,Sun & Moon,"[""Item""]",7.822039698836414,C,B,14.06,12.57
+5608613,sm5-119,Cynthia,Trainer,Uncommon,regional-championship-staff,Ultra Prism,"[""Supporter""]",6.825462012320329,C,B,90.73,90.73
+5629767,xy12-90,Double Colorless Energy,Energy,Uncommon,international-championships,Evolutions,"[""Special""]",8.0766598220397,C,B,,
+5705708,sm2-125a,Field Blower,Trainer,Uncommon,league,Guardians Rising,"[""Item""]",7.572895277207392,C,B,2.56,2.56
+5705710,sm2-128a,Max Potion,Trainer,Uncommon,league,Guardians Rising,"[""Item""]",7.572895277207392,C,B,1.86,1.86
+5705711,sm6-112a,Metal Frying Pan,Trainer,Uncommon,league,Forbidden Light,"[""Pok\u00e9mon Tool""]",6.576317590691307,C,B,2.51,2.99
+5790342,sm6-113,Mysterious Treasure,Trainer,Uncommon,league-cup,Forbidden Light,"[""Item""]",6.576317590691307,C,B,7.74,9.11
+5790883,sm4-95,Gladion,Trainer,Uncommon,regional-championships,Crimson Invasion,"[""Supporter""]",7.0746064339493495,C,B,9.48,9.629999999999999
+5791985,sm5-125a,Lillie,Trainer,Uncommon,regional-championship-staff,Ultra Prism,"[""Supporter""]",6.825462012320329,C,B,,
+6009630,sm4-91,Counter Catcher,Trainer,Uncommon,league-cup-staff,Crimson Invasion,"[""Item""]",7.0746064339493495,C,B,29.96,28.98
+6021834,g1-26,Pikachu,Pokémon,Common,stamped,Generations,"[""Basic""]",8.772073921971252,C,D,8.83,19.86
+6073274,sm4-91,Counter Catcher,Trainer,Uncommon,league-cup,Crimson Invasion,"[""Item""]",7.0746064339493495,C,B,7.01,9.315000000000001
+6226362,sm5-122,Escape Board,Trainer,Uncommon,league-cup-staff,Ultra Prism,"[""Pok\u00e9mon Tool""]",6.825462012320329,C,B,8.99,8.99
+6254478,sm1-135,Ultra Ball,Trainer,Uncommon,championships-staff-north-america,Sun & Moon,"[""Item""]",7.822039698836414,C,B,70.0,70.0
+6254479,sm1-135,Ultra Ball,Trainer,Uncommon,championships-staff-oceania,Sun & Moon,"[""Item""]",7.822039698836414,C,B,,
+6254480,sm1-135,Ultra Ball,Trainer,Uncommon,championships-staff-europe,Sun & Moon,"[""Item""]",7.822039698836414,C,B,,
+6329689,g1-14,Ponyta,Pokémon,Common,stamped,Generations,"[""Basic""]",8.772073921971252,C,D,13.6,11.114999999999998
+6385971,sm1-123,Nest Ball,Trainer,Uncommon,league-cup-staff,Sun & Moon,"[""Item""]",7.822039698836414,C,B,25.5,25.05
+6469364,xy10-94,Chaos Tower,Trainer,Uncommon,national-championships,Fates Collide,"[""Stadium""]",8.580424366872005,C,B,3.36,18.3
+6635593,sm6-108,Judge,Trainer,Uncommon,professor-program,Forbidden Light,"[""Supporter""]",6.576317590691307,C,B,15.28,14.86
+6657497,g1-8,Tangela,Pokémon,Common,20th-anniversary,Generations,"[""Basic""]",8.772073921971252,C,D,4.28,7.84
+6795207,g1-53,Meowth,Pokémon,Common,20th-anniversary-stamp,Generations,"[""Basic""]",8.772073921971252,C,D,10.01,13.04
+6808996,xy12-90,Double Colorless Energy,Energy,Uncommon,top-8-latin-america,Evolutions,"[""Special""]",8.0766598220397,C,B,,
+7150029,xy11-103,Ninja Boy,Trainer,Uncommon,league-cup,Steam Siege,"[""Supporter""]",8.32580424366872,C,B,12.78,12.78
+962564,sm8-176,Fairy Charm Fighting,Trainer,Uncommon,f,Lost Thunder,"[""Pok\u00e9mon Tool""]",6.078028747433265,C,B,1.09,0.99
+962783,sm8-176,Fairy Charm Fighting,Trainer,Uncommon,f-reverse-holo,Lost Thunder,"[""Pok\u00e9mon Tool""]",6.078028747433265,C,B,2.07,2.07

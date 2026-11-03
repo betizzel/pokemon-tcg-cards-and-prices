@@ -1,6 +1,6 @@
 """Pokémon TCG price data mining: main working script.
 
-Question: can we look at a card and predict whether its price will go up or down?
+Question: how do card characteristics and historical prices relate to card value?
 """
 
 import json
@@ -171,10 +171,9 @@ def load_data() -> pd.DataFrame:
 
 
 def analyze(df: pd.DataFrame) -> None:
-
+    """Show a starting overview of the combined data."""
     print(f"{len(df):,} rows x {df.shape[1]} columns | {df['pc_id'].nunique():,} price series | "
           f"{df['card_id'].nunique():,} cards | {df['month'].min()} to {df['month'].max()}")
-
     print(df[["card_id", "name", "variant", "month", "price_ungraded", "price_psa10", "volume"]].tail())
 
 

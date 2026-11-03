@@ -1,0 +1,18 @@
+pc_id,card_id,name,supertype,rarity,variant,set_age_years,reference_group,trial_group,aligned_trial_group,changed_assignment,added_feature_value,trial,november_ungraded_usd
+2369921,dp1-123,Grass Energy,Energy,Common,base,17.585215605749486,3,2,0,True,Energy,supertype,0.99
+762764,pop5-4,Double Rainbow Energy,Energy,Rare,base,17.752224503764545,3,2,0,True,Special,subtypes,6.07
+889706,ex16-42,Aron,Pokémon,Common,base,17.82614647501711,0,2,3,True,Pokémon::Basic,context_subtypes,1.65
+2182988,sm7-10a,Sceptile,Pokémon,Rare Holo,holo,6.327173169062286,1,3,2,True,Sun & Moon,set_series,3.28
+889678,ex16-14,Dusclops,Pokémon,Rare,base,17.82614647501711,3,2,0,True,Power Keepers,set_name,1.75
+3398878,dp1-58,Prinplup,Pokémon,Uncommon,diamond-&-pearl-stamp,17.585215605749486,3,1,1,True,Ken Sugimori,artist,3.3
+5013672,sm35-28,Pikachu,Pokémon,Common,holo,7.151266255989048,2,1,1,True,Pikachu,card_name,3.48
+889668,ex16-4,Banette,Pokémon,Rare Holo,base,17.82614647501711,0,2,3,True,Psychic,pokemon_types,3.72
+5436408,pl2-20,Gallade E4,Pokémon,Rare,holo,15.542778918548938,3,0,0,True,80.0,hp,3.12
+1384428,swsh1-31,Scorbunny,Pokémon,Common,base,4.813141683778234,3,1,1,True,1.0,retreat_cost,1.36
+1712967,swsh2-22,Flapple,Pokémon,Rare Holo,gamestop-holo,4.583162217659138,1,1,2,True,No,is_basic,1.91
+4895091,ex1-7,Gardevoir,Pokémon,Rare Holo,kevin-nguyen,21.418206707734427,0,3,3,True,No,is_stage_1,
+763037,dp1-1,Dialga,Pokémon,Rare Holo,base,17.585215605749486,3,2,0,True,No,is_stage_2,7.99
+763037,dp1-1,Dialga,Pokémon,Rare Holo,base,17.585215605749486,3,2,0,True,No,has_v,7.99
+763037,dp1-1,Dialga,Pokémon,Rare Holo,base,17.585215605749486,3,1,0,True,No,has_gx,7.99
+763037,dp1-1,Dialga,Pokémon,Rare Holo,base,17.585215605749486,3,0,0,True,No,has_uppercase_ex,7.99
+763037,dp1-1,Dialga,Pokémon,Rare Holo,base,17.585215605749486,3,2,0,True,No,has_lowercase_ex,7.99

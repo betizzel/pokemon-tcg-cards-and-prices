@@ -1,0 +1,18 @@
+trial,feature,scope,products,added_columns,different_assignments_pct,ARI
+supertype,Supertype,All product types,29877,3,0.9472169227164708,0.9759286266228508
+subtypes,Subtypes: shared labels,All product types,29877,42,1.0509756669009607,0.9726912011252715
+context_subtypes,Subtypes: within card type,All product types,29877,57,0.6827994778592228,0.9817602150167754
+set_series,Set series,All product types,29877,15,34.103156274056964,0.4346124757985036
+set_name,Set name,All product types,29877,136,0.40834086420992743,0.9896695725775837
+artist,Artist,All product types,29597,302,1.0203736865222828,0.9742563273937834
+card_name,Exact card name,All product types,29877,3894,0.0033470562640157977,0.9999091418140209
+pokemon_types,Pokémon type,Pokémon only,25307,12,0.8930335480301893,0.9760490452668851
+hp,HP,Pokémon only,25307,1,52.33334650491959,0.2849419151272595
+retreat_cost,Recorded retreat cost,Pokémon only,23887,1,52.87813455017374,0.2419794969765963
+is_basic,Pokémon subtype: Basic,Pokémon only,25307,2,52.009325483067926,0.2560053768557536
+is_stage_1,Pokémon subtype: Stage 1,Pokémon only,25307,2,49.978266882680686,0.27788494451015555
+is_stage_2,Pokémon subtype: Stage 2,Pokémon only,25307,2,0.07112656577231595,0.9981774350369479
+has_v,Pokémon subtype: V,Pokémon only,25307,2,0.09878689690599439,0.9973507811130887
+has_gx,Pokémon subtype: GX,Pokémon only,25307,2,0.09088394515351483,0.9975609114960784
+has_uppercase_ex,Pokémon subtype: EX,Pokémon only,25307,2,0.1896708420595092,0.9948155708841623
+has_lowercase_ex,Pokémon subtype: ex,Pokémon only,25307,2,0.09088394515351483,0.9975609114960784

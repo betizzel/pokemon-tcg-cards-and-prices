@@ -1,6 +1,16 @@
 # Pokémon TCG cards and prices
 
-Question asked: **can we look at a card and predict whether its price will go up or down?**
+## Research questions
+
+1. Can historical pricing trends and card characteristics predict whether an individual Pokémon card's value will increase or decrease?
+2. Which Pokémon card characteristics, such as rarity, age, and grading condition, are most strongly associated with market value?
+3. Have individual Pokémon card prices increased faster than general consumer inflation?
+
+The inflation question is possible future work. We'd need a consumer price
+index for the same currency and months.
+
+So far, we've done initial EDA and exploratory clustering. We haven't built a
+price-direction predictor or established which characteristics cause value.
 
 This repo links two public datasets:
 
@@ -19,10 +29,21 @@ pip install -r requirements.txt
 python main.py
 ```
 
-`main.py` is the working script for the project. On the first run it downloads
-`data/historic.csv` from Kaggle (176 MB, too big for GitHub, no login needed),
-builds the combined table and caches it as `data/combined.parquet` (~1.5 min).
-Later runs load the cache in seconds. Put analysis in `analyze()`.
+`main.py` loads the combined data and prints a small overview. On the first run
+it downloads `data/historic.csv` from Kaggle and builds
+`data/combined.parquet`. Later runs use the cache.
+
+## Aanalysis
+
+1. **[Clustering_Longitudinal.ipynb](Clustering_Longitudinal.ipynb)** — class-level analysis. 
+   Uses K-means, Euclidean distance, age
+   normalization, SSE, and an elbow plot. Describes one K=4 model and compares
+   monthly ungraded prices from December 2020 through November 2024.
+2. **[Results summary](results/longitudinal/SUMMARY.md)** — cluster descriptions
+   and interpretation notes. The output folder includes the elbow plot,
+   monthly price/count chart, numeric centroids, and small summary tables.
+3. **[EDA.ipynb](EDA.ipynb)** and **[Clustering_Characteristics.ipynb](Clustering_Characteristics.ipynb)** —
+   baytizzel's work (cool guy)
 
 ## Files
 

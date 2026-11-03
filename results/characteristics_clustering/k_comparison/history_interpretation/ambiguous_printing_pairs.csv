@@ -1,0 +1,5 @@
+pc_id,card_id,variant,name_match,name,rarity,set_release_date,set_name,set_series,set_age_years,cluster,price_ungraded
+4441298,swshp-SWSH205,base,True,Hisuian Basculegion,Promo,2019-11-15,SWSH Black Star Promos,Sword & Shield,5.04312114989733,0,3.04
+4513778,swsh9tg-TG19,base,True,Single Strike Urshifu VMAX,Rare Holo VMAX,2022-02-25,Brilliant Stars Trainer Gallery,Sword & Shield,2.7624914442162902,0,5.14
+3216320,swsh9tg-TG19,base,False,Single Strike Urshifu VMAX,Rare Holo VMAX,2022-02-25,Brilliant Stars Trainer Gallery,Sword & Shield,2.7624914442162902,0,6.99
+4247902,swshp-SWSH205,base,False,Hisuian Basculegion,Promo,2019-11-15,SWSH Black Star Promos,Sword & Shield,5.04312114989733,0,
