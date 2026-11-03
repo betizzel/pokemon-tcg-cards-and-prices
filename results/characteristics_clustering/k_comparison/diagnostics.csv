@@ -1,0 +1,4 @@
+k,products_fitted,products_in_score_sample,full_fit_sample_silhouette,assignments_from
+2,29877,3000,0.38274998508074365,new full-cohort fit
+3,29877,3000,0.2904380875952371,new full-cohort fit
+4,29877,3000,0.22427010074223214,saved K=4 reference

@@ -1,6 +1,16 @@
 # Pokémon TCG cards and prices
 
-Question asked: **can we look at a card and predict whether its price will go up or down?**
+## Research questions
+
+1. Can historical pricing trends and card characteristics predict whether an individual Pokémon card's value will increase or decrease?
+2. Which Pokémon card characteristics, such as rarity, age, and grading condition, are most strongly associated with market value?
+3. Have individual Pokémon card prices increased faster than general consumer inflation?
+
+The inflation question is possible future work. We'd need a consumer price
+index for the same currency and months.
+
+So far, we've done initial EDA and exploratory clustering. We haven't built a
+price-direction predictor or established which characteristics cause value.
 
 This repo links two public datasets:
 
@@ -19,10 +29,54 @@ pip install -r requirements.txt
 python main.py
 ```
 
-`main.py` is the working script for the project. On the first run it downloads
-`data/historic.csv` from Kaggle (176 MB, too big for GitHub, no login needed),
-builds the combined table and caches it as `data/combined.parquet` (~1.5 min).
-Later runs load the cache in seconds. Put analysis in `analyze()`.
+`main.py` loads the combined data and prints a small overview. On the first run
+it downloads `data/historic.csv` from Kaggle and builds
+`data/combined.parquet`. Later runs use the cache.
+
+## Reading the analysis
+
+1. **[EDA.ipynb](EDA.ipynb)** — what a row represents, prices by rarity, a first
+   grade comparison, and missing prices versus missing months.
+2. **[Clustering_Characteristics.ipynb](Clustering_Characteristics.ipynb)** —
+   the main model, preprocessing, elbow/silhouette checks, and K=2/3/4
+   comparison. The subtype experiment is kept in Appendix A.
+3. **[Clustering_History_Interpretation.ipynb](Clustering_History_Interpretation.ipynb)** —
+   price history and coverage, matched base/reverse-holo prices, and one-year
+   changes for the same products.
+4. **[Clustering_Feature_Experiments.ipynb](Clustering_Feature_Experiments.ipynb)** —
+   the 17 extra feature trials. This is the experiment log, not a list of
+   features we've decided to keep.
+
+### Working choices
+
+- One row per product/printing, not per monthly price observation.
+- Inputs: **set age, rarity, and printing**. Prices are compared after fitting.
+- **K=4 is the working reference.** K=2 and K=3 were also fitted on the same
+  29,877 products; their tradeoffs are in Section 9 of the main notebook.
+- Missing prices don't exclude a product from a characteristics cluster.
+  Missing required characteristics do, with the exclusions recorded.
+- Age is measured at November 2024. Price comparisons are mainly ungraded;
+  grades aren't treated as the condition of a particular physical copy.
+
+### Observations so far
+
+- In this setup, the groups mostly follow age and printing. Price ranges still
+  overlap, so a group isn't a fixed value tier.
+- Equal group medians can hide a matched printing difference. Among 6,702
+  card IDs with one eligible base/reverse-holo pair and both November 2024
+  prices, reverse-holo was higher in 82.1% of pairs. This isn't a market-wide
+  or causal premium.
+- Higher price and faster price growth are different questions. The history
+  notebook separates those comparisons and shows coverage alongside prices.
+
+### Running the notebooks
+
+Select the Python environment where the requirements are installed, and run
+from the project directory. Run the main clustering notebook before the
+history or feature notebooks if the saved assignments don't exist.
+
+Generated tables and assignments are under `results/`. Rerunning a notebook
+replaces its outputs, not the source data.
 
 ## Files
 

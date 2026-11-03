@@ -1,0 +1,18 @@
+trial,feature,scope,applicable_products,usable_products,unavailable_in_scope,distinct_values_or_labels
+supertype,Supertype,All product types,29877,29877,0,3
+subtypes,Subtypes: shared labels,All product types,29877,29877,0,41
+context_subtypes,Subtypes: within card type,All product types,29877,29877,0,56
+set_series,Set series,All product types,29877,29877,0,15
+set_name,Set name,All product types,29877,29877,0,136
+artist,Artist,All product types,29877,29597,280,302
+card_name,Exact card name,All product types,29877,29877,0,3894
+pokemon_types,Pokémon type,Pokémon only,25307,25307,0,11
+hp,HP,Pokémon only,25307,25307,0,31
+retreat_cost,Recorded retreat cost,Pokémon only,25307,23887,1420,5
+is_basic,Pokémon subtype: Basic,Pokémon only,25307,25307,0,2
+is_stage_1,Pokémon subtype: Stage 1,Pokémon only,25307,25307,0,2
+is_stage_2,Pokémon subtype: Stage 2,Pokémon only,25307,25307,0,2
+has_v,Pokémon subtype: V,Pokémon only,25307,25307,0,2
+has_gx,Pokémon subtype: GX,Pokémon only,25307,25307,0,2
+has_uppercase_ex,Pokémon subtype: EX,Pokémon only,25307,25307,0,2
+has_lowercase_ex,Pokémon subtype: ex,Pokémon only,25307,25307,0,2
